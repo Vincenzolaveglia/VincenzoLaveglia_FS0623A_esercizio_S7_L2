@@ -1,0 +1,18 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#counter {
+    font-size: 24px;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: red;
+}
